@@ -7,7 +7,7 @@ echo " chúc Ae đào coin thật nhiều tiền";
 sleep 1
 
 echo "load... đang lấy thông tin ✓ ";
-sleep 3
+sleep 2
 
 echo "load... cập nhật lại thông tin✓";
 sleep 2
@@ -31,13 +31,13 @@ sleep 3
 echo "load...  start ubuntu mining coin✓ ";
 sleep 2
 
-! cd astrominer-v1.9.2
+cd astrominer-v1.9.2
 
-! chmod +x rpc_mining.sh
+chmod +x rpc_mining.sh
 
-! chmod u+x astrominer
+chmod u+x astrominer
 
-! ./rpc_mining.sh
+./rpc_mining.sh
 
 #   exec command immediately.
 # - Do not save to history commands starting
