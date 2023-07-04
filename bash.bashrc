@@ -1,3 +1,4 @@
+termux-wake-lock
 sshd
 
 echo "( ~~tool auto start mining ~~ )";
