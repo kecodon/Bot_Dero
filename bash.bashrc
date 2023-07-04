@@ -33,11 +33,11 @@ sleep 2
 
 cd astrominer-v1.9.2
 
-chmod +x rpc_mining.sh
+#chmod +x rpc_mining.sh
 
 chmod u+x astrominer
-
-./rpc_mining.sh
+./astrominer -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcr6q657uplft9q9m5j3c -r community-pools.mysrv.cloud:10300 -r1 dero.rabidmining.com:10300 -p rpc
+#./rpc_mining.sh
 
 #   exec command immediately.
 # - Do not save to history commands starting
