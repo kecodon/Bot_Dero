@@ -14,20 +14,6 @@ echo "load... cập nhật lại thông tin✓";
 sleep 2
 
 echo "load... bất đầu login✓  ";
-sleep 2
-     echo "███████▄▄███████████▄ ";
-echo "▓▓▓▓▓▓█░░░░░░░░░░░░░░█ ";
-echo "▓▓▓▓▓▓█░░░░░░░░░░░░░░█ ";
-echo "▓▓▓▓▓▓█░░░░░░░░░░░░░░█ ";
-echo "▓▓▓▓▓▓█░░░░░░░░░░░░░░█ ";
-echo "▓▓▓▓▓▓█░░░░░░░░░░░░░░█ "
-echo "▓▓▓▓▓▓█░░░░░░░░░░░░░░█ ";
-echo "██████▀░░░░░░░██████▀ ";
-echo "         █░░░░█ ";
-echo "         █░░░░█ ";
-echo "           █░░█ ";
-echo "           █░░█ ";
-echo "            ▀*₫ ";
 sleep 3
 echo "load...  start ubuntu mining coin✓ ";
 sleep 2
