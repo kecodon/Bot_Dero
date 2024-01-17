@@ -7,6 +7,7 @@ sleep 3
 #./xmrig -o sg-zephyr.miningocean.org:5332 -a rx/0 -u ZEPHs87SZqvSfAuB2h39KpVbMVRPL98jqi7H7Z5DSmtMYM8hRU4waiAPKQA9gyKPKphHCu7b1XXqtZ8DGxAuzJm1Qkryz9xv96n -p pc1 -k
 #./xmrig -o gulf.moneroocean.stream:10128 -a rx/0 -u 45BksJdssCV3nrUN6edinZWMxFMypn42KjdTEeTVy9eDVUeGxfZrEobZoA7hxcQJxSAko5mr4qxSd9aHcSTxLLWmE4YH8JE.ryzen -p x
 #cd ccminer
+#./ccminer -a verus -o stratum+tcp://cn.vipor.net:5040 -u RJTLdNZxMfYS8CJG48k9A4ezMsjBaLwwDQ.s8 -p x -t 8
 #./ccminer -a verus -o stratum+tcp://ap.luckpool.net:3956 -u RJTLdNZxMfYS8CJG48k9A4ezMsjBaLwwDQ.live4 -p x -t 8
 #cd cpuminer-opt
 #./cpuminer -a yespower -o stratum+tcp://stratum-asia.rplant.xyz:7079 -u uyRQgwX2nvKYTT9xzRvUAHxqmNK2Nw4Kvk.Live -p webpassword=x -t 6 --cpu-affinity 0xFC
